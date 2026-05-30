@@ -50,8 +50,8 @@ I work with modern cloud-native tools: Kubernetes, Terraform, Docker, CI/CD pipe
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Website-troshin.by-2E9CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://troshin.by/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanislav2240@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-troshin.by-2E9CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://troshin.by/)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StasTroshin)
   
 </div>
